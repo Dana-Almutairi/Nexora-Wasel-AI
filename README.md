@@ -89,6 +89,17 @@ Our team participated in the virtual and in-person stages of the competition.
 - Testing with realistic shipment disruption scenarios.
 - Improving reliability, automation, and decision-making capabilities.
 
+## Platform Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.jpg)
+
+### Shipment Management
+![International Shipping](screenshots/international shipping.jpg)
+
+### Warehouse Management
+![Warehouse Management](screenshots/warehouse.jpg)
+
 ---
 
 **Developed by Team Nexora | Led by Dana Saleel Almutairi**
