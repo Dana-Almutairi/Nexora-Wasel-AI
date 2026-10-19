@@ -62,6 +62,12 @@ Hackathon project with an interactive prototype and proposed multi-agent AI arch
 
 The prototype demonstrates the intended user experience and logistics management workflows. Individual AI capabilities and production integrations require separate technical validation.
 
+## Project Presentation
+
+Explore our AgentX 2026 project presentation, including the problem statement, proposed AI agent architecture, user interface, and future development plans.
+
+[View Project Presentation](Nexora(20261019-140705).pdf)
+
 ## Team Nexora
 
 - **Dana Saleel Almutairi** — Team Leader
