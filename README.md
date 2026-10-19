@@ -91,14 +91,17 @@ Our team participated in the virtual and in-person stages of the competition.
 
 ## Platform Screenshots
 
-### Dashboard
-![Dashboard](screenshots/dashboard.jpg)
+### Home Page
+![Home Page](screenshots/Home%20Page.jpg)
 
-### Shipment Management
-![International Shipping](screenshots/international shipping.jpg)
+### Main Dashboard
+![Dashboard](screenshots/Dashboard.jpg)
 
 ### Warehouse Management
-![Warehouse Management](screenshots/warehouse.jpg)
+![Warehouse Management](screenshots/Warehouse%20Management.jpg)
+
+### International Shipping
+![International Shipping](screenshots/International%20Shipping.jpg)
 
 ---
 
